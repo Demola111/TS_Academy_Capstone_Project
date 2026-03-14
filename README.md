@@ -7,6 +7,7 @@
 ## Project Overview
 
 Over the last decade, Nigeria has faced significant increases in food prices, with the situation worsening after the removal of the fuel subsidy in May 2023. This capstone project develops a time-series forecasting framework for two key economic indicators:
+
 	Basket Price — a weighted index of 14 staple food commodities representing the estimated monthly food expenditure of a typical Nigerian household.
 	CPI Food — the official Consumer Price Index for food reported by the National Bureau of Statistics.
 
