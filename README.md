@@ -1,17 +1,16 @@
 # TS_Academy_Capstone_Project
 ## 🇳🇬 Food Basket Price & Food Inflation Forecasting
-### TS Academy — Track 3: Time Series Analysis | Capstone Project
+### TS Academy — Track 3: Time Series Analysis | Capstone project
 
 ---
 
 ## Project Overview
 
-Nigeria has experienced severe food price inflation over the past decade, with conditions worsening significantly following the removal of the fuel subsidy in May 2023. This capstone project builds a **time series forecasting system** for two critical economic indicators:
+Over the last decade, Nigeria has faced significant increases in food prices, with the situation worsening after the removal of the fuel subsidy in May 2023. This capstone project develops a time-series forecasting framework for two key economic indicators:
+	** Basket Price ** — a weighted index of 14 staple food commodities representing the estimated monthly food expenditure of a typical Nigerian household.
+	** CPI Food ** — the official Consumer Price Index for food reported by the National Bureau of Statistics.
 
-- **Basket Price** — a weighted composite of 14 staple food commodities reflecting the real cost of a typical Nigerian household's monthly food spend
-- **CPI Food** — the official Consumer Price Index for food, as published by the National Bureau of Statistics (NBS)
-
-By modelling both indicators simultaneously and linking them through a **cascade forecasting architecture**, we produce 6-month ahead forecasts that can inform household planning, policy decisions, and economic analysis.
+Both indicators are modelled together using a cascade forecasting structure, allowing basket price predictions to inform CPI Food forecasts. The system generates six-month forward forecasts that can support household budgeting, policy planning, and macroeconomic analysis.
 
 ---
 
